@@ -1,1 +1,380 @@
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
+body {
+
+     font-family: Source Sans Pro;
+    background-color: #eee;
+    padding: 20px;
+ 
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .newspaper-container {
+ 
+ 
+    width: 700px;
+ 
+ 
+    margin: auto;
+ 
+ 
+    background-color: #fff;
+ 
+ 
+    border-radius: 1em;
+ 
+ 
+    padding: 15px;
+ 
+ 
+ }
+ 
+ 
+ h1 {
+ 
+ 
+    text-align: center;
+ 
+ 
+    font-family: Abril Fatface;
+ 
+ 
+    font-size: 2.5em;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ h2 {
+ 
+ 
+    font-family: Roboto Slab;
+ 
+ 
+    margin-bottom: 0px;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ h4 {
+ 
+ 
+    text-align: left;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ h5 {
+ 
+ 
+    font-family: Roboto Slab;
+ 
+ 
+    color: #dd3232;
+ 
+ 
+    margin-top: 0.7em;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ nav {
+ 
+ 
+    border: solid #eee;
+ 
+ 
+    border-width: 1px 0;
+ 
+ 
+    text-align: center;
+ 
+ 
+ }
+ 
+ 
+ nav ul {
+ 
+ 
+    padding: 0;
+ 
+ 
+ }
+ 
+ 
+ nav li {
+ 
+ 
+    list-style: none;
+ 
+ 
+    display: inline-block;
+ 
+ 
+    padding: 0 0.8em;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ nav a {
+ 
+ 
+    color: #777;
+ 
+ 
+    text-decoration: none;
+ 
+ 
+    font-size: 0.8em;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ main img{
+ 
+ 
+    width: 100%;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ p {
+ 
+ 
+    padding: 15px;
+ 
+ 
+    text-align: justify;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .more-articles {
+ 
+ 
+    text-align: center;
+ 
+ 
+    border-top: 1px solid #eee;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .more-articles section {
+ 
+ 
+    display: inline-block;
+ 
+ 
+    width: 43%;
+ 
+ 
+    margin: auto;
+ 
+ 
+    padding: 20px;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .mini-articles {
+ 
+ 
+    border-top: 1px solid #eee;
+ 
+ 
+    display: grid;
+ 
+ 
+    grid-template-columns: 30% 30% 30%;
+ 
+ 
+    justify-content: center;
+ 
+ 
+    gap: 10px;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .mini-articles img {
+ 
+ 
+    max-width: 100%;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ footer {
+ 
+ 
+    border-top: 1px solid #eee;
+ 
+ 
+    display: grid;
+ 
+ 
+    grid-template-columns: 25% 25% 25% 25%;
+ 
+ 
+    padding: 20px;
+ 
+ 
+ }
+ 
+ 
+ footer h5, footer ul {
+ 
+ 
+    margin: 0px;
+ 
+ 
+    padding-left: 20px;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ footer li {
+ 
+ 
+    list-style:square;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .footmenu ul {
+ 
+ 
+    margin: 0px;
+ 
+ 
+   
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .footmenu li {
+ 
+ 
+    list-style: none;
+ 
+ 
+    padding: 0px;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .footmenu a {
+ 
+ 
+    text-decoration: none;
+ 
+ 
+    font-weight: bold;
+ 
+ 
+    color: #777;
+ 
+ 
+ }
+ 
+ 
+ 
