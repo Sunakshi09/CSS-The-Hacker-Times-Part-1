@@ -6,12 +6,6 @@ body {
  
 }
  
- 
- 
- 
- 
- 
- 
  .newspaper-container {
  
  
@@ -48,11 +42,6 @@ body {
  }
  
  
- 
- 
- 
- 
- 
  h2 {
  
  
@@ -64,13 +53,8 @@ body {
  
  }
  
- 
- 
- 
- 
- 
- 
- h4 {
+
+h4 {
  
  
     text-align: left;
@@ -79,12 +63,7 @@ body {
  }
  
  
- 
- 
- 
- 
- 
- h5 {
+h5 {
  
  
     font-family: Roboto Slab;
@@ -99,12 +78,7 @@ body {
  }
  
  
- 
- 
- 
- 
- 
- nav {
+nav {
  
  
     border: solid #eee;
@@ -143,11 +117,6 @@ body {
  }
  
  
- 
- 
- 
- 
- 
  nav a {
  
  
@@ -163,12 +132,7 @@ body {
  }
  
  
- 
- 
- 
- 
- 
- main img{
+  main img{
  
  
     width: 100%;
@@ -177,12 +141,7 @@ body {
  }
  
  
- 
- 
- 
- 
- 
- p {
+  p {
  
  
     padding: 15px;
@@ -192,11 +151,6 @@ body {
  
  
  }
- 
- 
- 
- 
- 
  
  
  .more-articles {
@@ -209,11 +163,6 @@ body {
  
  
  }
- 
- 
- 
- 
- 
  
  
  .more-articles section {
@@ -232,11 +181,6 @@ body {
  
  
  }
- 
- 
- 
- 
- 
  
  
  .mini-articles {
@@ -260,11 +204,6 @@ body {
  }
  
  
- 
- 
- 
- 
- 
  .mini-articles img {
  
  
@@ -274,12 +213,7 @@ body {
  }
  
  
- 
- 
- 
- 
- 
- footer {
+footer {
  
  
     border-top: 1px solid #eee;
@@ -309,12 +243,7 @@ body {
  }
  
  
- 
- 
- 
- 
- 
- footer li {
+footer li {
  
  
     list-style:square;
@@ -323,29 +252,15 @@ body {
  }
  
  
- 
- 
- 
- 
- 
  .footmenu ul {
  
  
     margin: 0px;
  
- 
-   
- 
- 
  }
  
  
- 
- 
- 
- 
- 
- .footmenu li {
+.footmenu li {
  
  
     list-style: none;
@@ -355,11 +270,6 @@ body {
  
  
  }
- 
- 
- 
- 
- 
  
  
  .footmenu a {
